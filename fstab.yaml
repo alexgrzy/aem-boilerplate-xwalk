@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://drive.google.com/drive/folders/1vqtktzM1Q1JD_DKq2kGGbPuGbHGegOrj"
+    url: "https://da.live/#/alexgrzy/aem-boilerplate-xwalk"
     type: "markup"
     suffix: ".html"
