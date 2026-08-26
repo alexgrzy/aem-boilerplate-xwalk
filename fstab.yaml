@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://da.live/#/alexgrzy/aem-boilerplate-xwalk"
+    url: "https://content.da.live/alexgrzy/aem-boilerplate-xwalk"
     type: "markup"
     suffix: ".html"
