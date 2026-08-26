@@ -1,5 +1,5 @@
 {
   "project": "AEM XWalk Boilerplate",
   "editUrlLabel": "AEM Editor",
-  "editUrlPattern": "{{contentSourceUrl}}{{pathname}}"
+  "editUrlPattern": "https://da.live/edit#/alexgrzy/aem-boilerplate-xwalk{{pathname}}"
 }
